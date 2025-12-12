@@ -77,6 +77,8 @@ Dataset used: **Fashion-MNIST** (28×28 grayscale images, 10 classes)
 
 ### Requirements
 ```bash
+git clone https://github.com/panagiotismisios/Dimensionality-Reduction-and-Clustering-on-Fashion-MNIST
+
 pip install numpy pandas matplotlib scikit-learn tensorflow keras
 
 python assignment_2.py
