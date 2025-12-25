@@ -1,7 +1,6 @@
 # Dimensionality Reduction and Clustering on Fashion-MNIST
 
-This repository contains the implementation and evaluation of **dimensionality reduction** and **clustering** techniques applied to the **Fashion-MNIST** dataset.  
-The project was developed as part of a **Machine Learning** course assignment.
+This repository contains the implementation and evaluation of **dimensionality reduction** and **clustering** techniques applied to the **Fashion-MNIST** dataset. 
 
 ---
 
